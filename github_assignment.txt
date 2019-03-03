@@ -1,1 +1,7 @@
-what it does, why you think it's interesting, any questions or thoughts you have about it
+The project is basically about a November 2018 contest for California's U.S. Senate seat matched incumbent Sen. Dianne Feinstein against former state Sen. Kevin de León. This analysis investigates how de León fared in his own district. It was conducted for the February 11, 2019, Los Angeles Times story.
+
+There is only a paragraph that's used for the story, but the information is really newsworthy:
+
+"De León secured more than 5 million votes in his November race against Feinstein, falling short by 8 percentage points. Although he prevailed in 40 out of 58 counties, he trailed Feinstein in his own L.A.-area Senate district by more than 6,000 votes, according to an analysis of the results by The Times."
+
+The project shows a picture for me that how a data analysis program can be used as some content of a story although without visualization. I'm really interested about how the map came out, but so far I cannot understand most of the coding. There is a long way to go.
