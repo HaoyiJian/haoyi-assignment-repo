@@ -1,0 +1,17 @@
+1.The table containing all the inmates of the Boone County Jail:
+<tbody class = "stripe" id="mrc_main_table">
+
+2.The table containing all the passed legislation from the Missouri Legislature：
+<table id="Table1" style="HEIGHT: 232px" cellspacing="1" cellpadding="1" width="100%" border="0">
+
+3.The table containing all the minutes of the Columbia City Council.
+<table width="100%" border="1" cellspacing="0" cellpadding="4" style="clear:both;">
+
+4. The element containing the mug shot of a detainee in the Boone County Jail.
+<img alt="Mugshot of ACTON, ANTHONY SEAN" src="SH01_MP.I00620s?CNTYP=97824" title="ACTON, ANTHONY SEAN">
+
+5. How would you modify that request to see House members from Boone County in 2005?
+It is a GET request, whose url is
+"https://house.mo.gov/MemberGridCluster.aspx?category=county&county=Boone&year=2019&code=R"
+To see the data in 2005, we need to modify the request url to:
+"https://house.mo.gov/MemberGridCluster.aspx?category=county&county=Boone&year=2005&code=R"
